@@ -1,0 +1,1 @@
+# nb_sources nb_obj nb_fait3 3 8#liens entre les sources et les faits#source 1 :1 : 4, 7, 11 3 : 4, 7, 11 5 : 4, 7, 9-#liens entre les faits et les objets#objet 1 :2 : 4, 5 4 : 6, 7, 8 5 : 9, 10, 11 

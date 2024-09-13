@@ -1,0 +1,23 @@
+# Exemple de l'article
+# nb_sources nb_obj nb_fait
+5 3 6
+#liens entre les sources et les faits
+#Exemple Etat art these : 1 - 4 - 5
+# sources d'accord sur O2
+# égalité sur O1 et O3 -> utilisation de O2 pour résoudre ce pb
+# s1 et s5 ne s'exprime pas sur tous les obj
+# + de sources qui affirme 4 et 1 donc 4 devrait être choisit avec cette logique
+# autant de source qui affirme 4 affirme 5 et 6
+# mais étant donne que 6 est affirme par une source qui s'exprime moins, elle peut recevoir moins de fiabilite et ne pas avoir le meme apport pour 6 que les autres sources
+#source 1 :
+2,3
+1,4,5
+1,4,6
+2,4,5
+4,6
+-
+#liens entre les faits et les objets
+#objet 1 :
+1,2
+3,4
+5,6

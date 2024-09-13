@@ -1,0 +1,15 @@
+#nbsrc nbobj nbfct
+#Counter example Best and weak best
+5 2 4
+#links between sources and facts
+#source 1
+2,4
+4
+2
+1,4
+3
+-
+#links between objects and facts
+#object 1
+1,2
+3,4

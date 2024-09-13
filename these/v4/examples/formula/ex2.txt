@@ -1,0 +1,21 @@
+#nbsrc nbobj nbfct
+3 8 16
+#ex2.txt example ana; b;nb
+#Formula:v4/prop_files/ex2.txt
+# faux = impair et vrai = pair
+#links between sources and facts
+#source A1
+2,4,6,8,10,12,14,16
+1,4,6,7,9,11,14,16
+2,3,5,7,9,12,13,15
+-
+#liens entre les faits et les objets
+#objet 1 :
+1,2
+3,4
+5,6
+7,8
+9,10
+11,12
+13,14
+15,16

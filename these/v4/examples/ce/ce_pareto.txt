@@ -1,0 +1,19 @@
+#Counter example Pareto plurality A and O
+#Source 2 > source 1
+#nbsrc nbobj nbfct
+8 2 6
+#links between sources and facts
+#source 1
+1,5
+2,6
+2,4
+3,4
+3,4
+3,4
+3,4
+3,6
+-
+#links between objects and facts
+#object 1
+1,2,3
+4,5,6

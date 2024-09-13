@@ -1,0 +1,17 @@
+#SOurce coherence counter example
+#fct of src1 are not better than fct of src2
+#1.0 >= 1.0
+#nbsrc nbobj nbfct
+5 2 2
+#links between sources and facts
+#source 1
+1
+2
+1,2
+1,2
+2
+-
+#links between objects and facts
+#object 1
+1
+2

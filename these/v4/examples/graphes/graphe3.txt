@@ -1,0 +1,31 @@
+# nb_sources nb_obj nb_fait
+18 3 13
+#Sources 13 est l'eternel 2e
+#liens entre les sources et les faits
+#source 1 :
+1,6,11
+1,6,11
+1,6,11
+#Source 4 :
+1,7,9
+1,7,9
+1,7,9
+1,8,9
+2,6,10
+2,6,10
+2,5,12
+2,5,12
+2,8,9
+2,6,10
+3,5,10
+3,5,10
+3,5,10
+4,5,9
+4,5,9
+-
+#liens entre les faits et les objets
+#objet 1 :
+1,2,3,4
+#objet n :
+5,6,7,8
+9,10,11,12,13

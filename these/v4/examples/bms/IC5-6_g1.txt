@@ -1,0 +1,18 @@
+#nbsrc nbformulae nbfct nbvar
+5 2 4 3
+#truth : 7
+#Formulae:1,6,7<2,3
+# p1,p2
+# maxcons : 
+#links between sources and facts
+#sources1
+1,4
+1,4
+1,4
+2,3
+2,3
+-
+#liens entre les faits et les objets
+#objet 1 :
+1,2
+3,4

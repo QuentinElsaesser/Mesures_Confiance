@@ -1,0 +1,15 @@
+#nbsrc nbobj nbfct
+5 2 6
+#Counter example compsrc
+#links between sources and facts
+#source 1
+5
+3
+2,6
+4
+1,4
+-
+#links between objects and facts
+#object 1
+1,2,3
+4,5,6

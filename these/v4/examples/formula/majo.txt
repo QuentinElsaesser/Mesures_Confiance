@@ -1,0 +1,27 @@
+#nbsrc nbobj nbfct
+11 5 10
+#truth : 1-4-5-7-10
+#lang.pdf example NOT P - R - NOT S - NOT Q - T
+#Formula:v4/prop_files/majo.txt
+# faux = impair et vrai = pair
+#links between sources and facts
+#sources1
+1,4,6,7,10
+1,4,5,7,10
+1,4,5,7,10
+1,4,6,7,9
+1,4,5,8,10
+1,4,5,8,10
+2,3,6,8,9
+2,3,6,8,9
+2,3,6,8,9
+2,3,6,8,9
+2,3,5,7,10
+-
+#liens entre les faits et les objets
+#objet 1 :
+1,2
+3,4
+5,6
+7,8
+9,10

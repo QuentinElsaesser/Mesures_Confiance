@@ -1,0 +1,34 @@
+#Counter example for monotony borda A
+#<class 'borda.Borda'> A
+#f:3/g:4 src7 claim fct3 instead of fct4 but not 1.6666666666666665 < 0.3333333333333333
+#nbsrc nbobj nbfct
+10 9 12
+#links between sources and facts
+#source 1
+#src 1 va s'exprimer sur fct 2
+1
+2,3,5
+#G1
+1,3,5
+1,3,5
+1,3,5
+1,3,5
+#G2
+#contre exemple
+2,4,6
+2,4,6
+2,4,6
+2,4,6,7,8,9,10,11,12
+-
+#links between objects and facts
+#object 1
+1,2
+#other o
+3,4
+5,6
+7
+8
+9
+10
+11
+12
